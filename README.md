@@ -42,6 +42,8 @@
 - The reviews were labelled either as positive or negative
 - The two classes were balanced with each containing $25.000$ reviews
 
+![classes](./images/reviews_length_distribution.svg)
+
 ## *Resources*
 
 - Packages: `numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`, `nltk`, `lightgbm`
