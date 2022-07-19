@@ -65,7 +65,7 @@
   - Perform stemming
 - Below you can find the function used to clean the reviews
 
-```
+``` python
 def preprocess_data(review):
 
     # convert to lowercase
